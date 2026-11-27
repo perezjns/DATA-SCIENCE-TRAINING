@@ -1,52 +1,54 @@
 # 🎓 Formación y Rutas de Aprendizaje en Datos (DataCamp)
 
-Repositorio personal de formación continua y estudio estructurado donde recopilo los materiales, notas/vídeos de aprendizaje, ejercicios propuestos y diplomas obtenidos a lo largo de mis rutas de aprendizaje en análisis de datos, Python, Machine Learning, SQL y Business Intelligence.
+Repositorio personal donde recopilo los **cursos y rutas de aprendizaje (*Career Tracks* / *Skill Tracks*) que he completado en DataCamp**, junto con mis **certificados y diplomas oficiales en formato `.pdf`**, vídeos de repaso (`VIDEOS DATACAMP`), datasets y ejercicios/proyectos prácticos desarrollados en cada módulo.
 
 ## 📁 Estructura del Repositorio
 
-Actualmente el repositorio está organizado en las siguientes rutas y módulos principales:
+Actualmente el repositorio está organizado según las distintas rutas y cursos completados en DataCamp:
 
-| Carpeta / Ruta | Contenido Principal | Materiales Incluidos |
+| Carpeta / Ruta | Cursos y Contenido Principal | Materiales y Certificación |
 | :--- | :--- | :--- |
-| 📁 `CIENTIFICO ESPECIALIZADO EN ML DATACAMP` | Modelos de regresión y clasificación, ensembles, validación, proyectos prácticos y aprendizaje automático | Proyectos por capítulo (`CAPÍTULO 1 PROYECTO`, `CAPÍTULO 4. PROYECTO`...), scripts/notebooks, datasets y vídeos (`VIDEOS DATACAMP`) |
-| 📁 `DATA SCIENTIST WITH PYTHON-DATACAMP` | Programación en Python, importación y preprocesamiento de datos, paquetes y machine learning | Materiales por capítulo, vídeos (`VIDEOS DATACAMP`), PDFs y ejercicios |
-| 📁 `POWER BI DATACAMP` | Modelado de datos, transformación, visualización y análisis en Power BI | Diplomas, vídeos/material de aprendizaje y ejercicios propuestos (si aplican) |
-| 📁 `SQL FUNDAMENTALS DATACAMP` | Fundamentos de bases de datos relacionales, consultas SQL, agregaciones, joins y análisis de datos | Diplomas, vídeos de aprendizaje (`VIDEOS DATACAMP`) y ejercicios propuestos |
+| 📁 `CIENTIFICO ESPECIALIZADO EN ML DATACAMP` | Cursos de la ruta *Machine Learning Scientist with Python*: modelos de regresión y clasificación, ensembles, validación cruzada, ajuste de hiperparámetros y proyectos prácticos | **Certificados/diplomas en `.pdf`**, proyectos por capítulo (`CAPÍTULO 1 PROYECTO`, `CAPÍTULO 4. PROYECTO`...), notebooks/scripts, datasets y vídeos (`VIDEOS DATACAMP`) |
+| 📁 `DATA SCIENTIST WITH PYTHON-DATACAMP` | Cursos de la ruta *Data Scientist with Python*: programación en Python, importación y limpieza de datos, visualización y fundamentos de machine learning | **Certificados/diplomas en `.pdf`**, material por capítulo, vídeos (`VIDEOS DATACAMP`) y ejercicios prácticos |
+| 📁 `POWER BI DATACAMP` | Cursos de análisis y visualización en Power BI: preparación y modelado de datos, DAX y creación de informes analíticos | **Certificados/diplomas en `.pdf`**, material audiovisual/notas y ejercicios prácticos |
+| 📁 `SQL FUNDAMENTALS DATACAMP` | Cursos de fundamentos de SQL: consultas relacionales, filtrado, agregaciones, *joins* y análisis de datos | **Certificados/diplomas en `.pdf`**, vídeos de repaso (`VIDEOS DATACAMP`) y ejercicios prácticos |
 
-> **Nota:** A medida que se incorporen nuevas rutas o cursos al repositorio, esta tabla puede ampliarse manteniendo la misma estructura por carpeta.
+> **Nota:** En cada una de estas carpetas, **los archivos `.pdf` corresponden a mis certificados o diplomas obtenidos** al completar cada curso o ruta en DataCamp.
 
-## 🏆 Diplomas y Certificados por Ruta de Aprendizaje
+## 🏆 Certificados y Diplomas (`.pdf`) por Ruta Completada
 
-En cada carpeta del repositorio se conservan los certificados o comprobantes correspondientes a los cursos y rutas completadas:
+Cada carpeta conserva los **archivos `.pdf` con los certificados y diplomas** que acreditan los cursos finalizados:
 
-- **Ruta / Módulo — Científico Especializado en ML (`CIENTIFICO ESPECIALIZADO EN ML DATACAMP`):**
-  - Materiales, proyectos prácticos y certificados de la ruta (ubicados dentro de `CIENTIFICO ESPECIALIZADO EN ML DATACAMP/`).
-- **Ruta / Módulo — Data Scientist with Python (`DATA SCIENTIST WITH PYTHON-DATACAMP`):**
-  - Materiales y certificados del curso o ruta completada (ubicados dentro de `DATA SCIENTIST WITH PYTHON-DATACAMP/`).
-- **Ruta / Módulo — Power BI (`POWER BI DATACAMP`):**
-  - Diploma / certificado del curso o ruta completada (ubicado dentro de `POWER BI DATACAMP/`).
-- **Ruta / Módulo — SQL Fundamentals (`SQL FUNDAMENTALS DATACAMP`):**
-  - Diploma / certificado del curso o ruta completada (ubicado dentro de `SQL FUNDAMENTALS DATACAMP/`).
+- **Científico Especializado en Machine Learning (`CIENTIFICO ESPECIALIZADO EN ML DATACAMP`):**
+  - Archivos `.pdf` con los diplomas/certificados de los cursos completados en esta ruta de Machine Learning, junto con sus proyectos y materiales prácticos.
+- **Data Scientist with Python (`DATA SCIENTIST WITH PYTHON-DATACAMP`):**
+  - Archivos `.pdf` con los diplomas/certificados de los cursos completados en esta ruta de Python y ciencia de datos.
+- **Power BI (`POWER BI DATACAMP`):**
+  - Archivos `.pdf` con los diplomas/certificados de los cursos completados en modelado y visualización con Power BI.
+- **SQL Fundamentals (`SQL FUNDAMENTALS DATACAMP`):**
+  - Archivos `.pdf` con los diplomas/certificados de los cursos completados en bases de datos y SQL.
 
-## 🎥 Vídeos de Aprendizaje y Ejercicios Propuestos
+## 🎥 Vídeos de Repaso y Ejercicios Prácticos
 
 1. **`CIENTIFICO ESPECIALIZADO EN ML DATACAMP`**
-  - **Vídeos de aprendizaje:** Grabaciones y recursos organizados dentro de `VIDEOS DATACAMP`.
-  - **Material y proyectos:** Carpetas por capítulo, soluciones/versiones de proyectos y prácticas de cada módulo.
+  - **Certificados (`.pdf`):** Diplomas de los cursos de Machine Learning completados.
+  - **Vídeos (`VIDEOS DATACAMP`):** Grabaciones de estudio organizadas por capítulos.
+  - **Proyectos y ejercicios:** Soluciones y versiones desarrolladas para cada proyecto del programa.
 2. **`DATA SCIENTIST WITH PYTHON-DATACAMP`**
-  - **Vídeos de aprendizaje:** Grabaciones y recursos organizados por capítulos dentro de `VIDEOS DATACAMP`.
-  - **Material y ejercicios:** Documentos de apoyo y prácticas de cada módulo.
+  - **Certificados (`.pdf`):** Diplomas de los cursos completados en la ruta de Python.
+  - **Vídeos (`VIDEOS DATACAMP`):** Material audiovisual organizado por capítulos y ejercicios resueltos.
 3. **`POWER BI DATACAMP`**
-  - **Vídeos / Notas de aprendizaje:** Material audiovisual y resúmenes de los conceptos clave trabajados en cada capítulo/módulo.
-  - **Ejercicios propuestos:** Prácticas, consultas/transformaciones y casos propuestos para afianzar cada bloque temático.
+  - **Certificados (`.pdf`):** Diplomas de los cursos completados en Power BI.
+  - **Material y ejercicios:** Recursos de repaso y prácticas aplicadas.
 4. **`SQL FUNDAMENTALS DATACAMP`**
-  - **Vídeos de aprendizaje:** Grabaciones y recursos de repaso organizados por capítulos/temas (incluyendo la carpeta `VIDEOS DATACAMP`).
+  - **Certificados (`.pdf`):** Diplomas de los cursos completados en SQL.
+  - **Vídeos (`VIDEOS DATACAMP`):** Grabaciones de repaso por capítulos y consultas prácticas.
 
-## 🛠️ Herramientas y Tecnologías
+## 🛠️ Herramientas y Tecnologías Trabajadas
 
-- **Python y Machine Learning:** Manipulación, preprocesamiento, validación cruzada, ensembles y modelado de datos.
-- **SQL:** Consultas relacionales, filtrado, funciones de agregación, joins y análisis de datos.
-- **Power BI:** Preparación y transformación de datos, modelado y visualización analítica.
+- **Python y Machine Learning:** Manipulación, preprocesamiento, validación cruzada, modelos de ensamble y aprendizaje supervisado/no supervisado.
+- **SQL:** Consultas relacionales, filtrado, funciones de agregación, *joins* y análisis de datos.
+- **Power BI:** Preparación y transformación de datos, modelado relacional y visualización analítica.
 - **Control de Versiones y Archivos Grandes:** Git, Git LFS (`.gitattributes` para `.mp4`) y GitHub (`perezjns`).
 
 ## 📌 Uso del Repositorio
